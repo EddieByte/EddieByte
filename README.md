@@ -1,6 +1,5 @@
 👋 Hi, I’m @EddieByte
-- 👀 I’m a dedicated lifelong learner with a genuine interest in leveraging technology to solve real-world business problems.
-- 🌱 I’m currently learning architecture along with Terraform infrastructure as code
+- 👀 I’m a dedicated lifelong learner with a genuine interest in leveraging technology to solve real-world problems.
 - ⚡ Fun fact:  Life’s twists and turns offer growth opportunities. The journey matters more than the timeline! 
 
 <!---
