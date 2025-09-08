@@ -1,6 +1,6 @@
 👋 Hi, I’m @EddieByte
-- 👀 I’m a dedicated lifelong learner with a genuine interest in leveraging technology to solve real-world problems.
-- ⚡ Fun fact:  Life’s twists and turns offer growth opportunities. The journey matters more than the timeline! 
+- Cloud Engineer/Architect, dedicated lifelong learner with a genuine interest in leveraging technology to solve real-world problems.
+- ⚡ Fun fact:  Life’s twists and turns always offer opportunities for growth. The journey will always matter more than the timeline! 
 
 <!---
 EddieByte/EddieByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
